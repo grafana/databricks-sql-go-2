@@ -1,10 +1,10 @@
 module github.com/databricks/databricks-sql-go
 
-go 1.21
+go 1.25
 
 require (
 	github.com/apache/arrow/go/v12 v12.0.1
-	github.com/apache/thrift v0.17.0
+	github.com/apache/thrift v0.24.0
 	github.com/coreos/go-oidc/v3 v3.5.0
 	github.com/joho/godotenv v1.4.0
 	github.com/mattn/go-isatty v0.0.20
