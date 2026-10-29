@@ -1,6 +1,6 @@
 module github.com/databricks/databricks-sql-go
 
-go 1.21
+go 1.23.0
 
 require (
 	github.com/apache/arrow/go/v12 v12.0.1
@@ -10,7 +10,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20
 	github.com/pierrec/lz4/v4 v4.1.15
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/oauth2 v0.7.0
+	golang.org/x/oauth2 v0.27.0
 	gotest.tools/gotestsum v1.8.2
 )
 
