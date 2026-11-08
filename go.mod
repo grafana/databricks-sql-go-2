@@ -1,6 +1,6 @@
 module github.com/databricks/databricks-sql-go
 
-go 1.21
+go 1.22
 
 require (
 	github.com/apache/arrow/go/v12 v12.0.1
@@ -15,7 +15,7 @@ require (
 )
 
 require (
-	github.com/andybalholm/brotli v1.0.4 // indirect
+	github.com/andybalholm/brotli v1.2.7 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dnephin/pflag v1.0.7 // indirect
 	github.com/fatih/color v1.16.0 // indirect
